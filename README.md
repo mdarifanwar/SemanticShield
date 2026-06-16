@@ -316,8 +316,8 @@ B.Tech Computer Science & Engineering
 
 Machine Learning • NLP • Full Stack Development
 
-GitHub:
-https://github.com/mdarifanwar
+- GitHub: https://github.com/mdarifanwar
+- LinkedIn: https://linkedin.com/in/your-profile
 
 ---
 
